@@ -9,4 +9,4 @@ CUDA 10.2
 
 DCGANのlossと生成結果  
 
-![DCGAN_loss](https://github.com/kyamada101/MNIST/blob/master/MNIST_DCGAN.png) | ![DCGAN_gif](https://github.com/kyamada101/MNIST/blob/master/MNIST_DCGAN.gif)
+![DCGAN_loss](https://github.com/kyamada101/MNIST/blob/master/MNIST_DCGAN.png) | ![DCGAN_gif](https://github.com/kyamada101/MNIST/blob/master/DCGAN.gif)
