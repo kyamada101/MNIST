@@ -16,3 +16,6 @@ cGANのlossと生成結果
 
 <img src=https://github.com/kyamada101/MNIST/blob/master/images/MNIST_cGAN.png width=350pix> | <img src=https://github.com/kyamada101/MNIST/blob/master/images/cGAN.gif>
 
+WGANのlossと生成結果
+
+<img src=https://github.com/kyamada101/MNIST/blob/master/images/MNIST_WGAN.png width=350pix> | <img src=https://github.com/kyamada101/MNIST/blob/master/images/WGAN.gif>
