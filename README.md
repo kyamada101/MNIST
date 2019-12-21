@@ -12,7 +12,7 @@ DCGANのlossと生成結果
 <img src=https://github.com/kyamada101/MNIST/blob/master/images/MNIST_DCGAN.png width=350pix> | <img src=https://github.com/kyamada101/MNIST/blob/master/images/DCGAN.gif>
 
 
-cGANのlossと生成結果
+conditional GANのlossと生成結果
 
 <img src=https://github.com/kyamada101/MNIST/blob/master/images/MNIST_cGAN.png width=350pix> | <img src=https://github.com/kyamada101/MNIST/blob/master/images/cGAN.gif>
 
